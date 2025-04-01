@@ -1,8 +1,7 @@
-### Expect a well written README later, but for now...
+## MIT License Summary 💙
 
-Here's what you can do with this:
-💙 Use it freely: You can use my code for your projects
-🖌️ Change it: Feel free to modify the code as you like
-🚀 Share and sell: You can share your creations and even sell things you make with it
-👤 Give credit: Just make sure to mention my name in your project(along with any other necessary contributers)
-✨ Enjoy! I hope it's helpful, but it comes as is
+* 🖌️ **Use it freely:** You can use my code for your projects!
+* 🚀 **Change it:** Feel free to make it your own and modify it.
+* 👤 **Share and sell:** Go ahead and share what you create, even if you make money from it.
+* ✨ **Give credit:** Just make sure to give me a little shout-out somewhere in your project.
+* 👍 **Enjoy!** I hope it's helpful, but it comes as is. No guarantees!
